@@ -1,0 +1,40 @@
+C:\Users\r0G3R b1NNy\AppData\Local\Temporary Projects\Beacon\bin\Debug\Beacon.exe
+C:\Users\r0G3R b1NNy\AppData\Local\Temporary Projects\Beacon\bin\Debug\Beacon.pdb
+C:\Users\r0G3R b1NNy\AppData\Local\Temporary Projects\Beacon\bin\Debug\Beacon.xml
+C:\Users\r0G3R b1NNy\AppData\Local\Temporary Projects\Beacon\bin\Debug\fr-FR\Beacon.resources.dll
+C:\Users\r0G3R b1NNy\AppData\Local\Temporary Projects\Beacon\bin\Debug\hi-IN\Beacon.resources.dll
+C:\Users\r0G3R b1NNy\AppData\Local\Temporary Projects\Beacon\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\r0G3R b1NNy\AppData\Local\Temporary Projects\Beacon\obj\x86\Debug\Beacon.Form1.resources
+C:\Users\r0G3R b1NNy\AppData\Local\Temporary Projects\Beacon\obj\x86\Debug\Beacon.Resources.resources
+C:\Users\r0G3R b1NNy\AppData\Local\Temporary Projects\Beacon\obj\x86\Debug\Beacon.Form1.fr-FR.resources
+C:\Users\r0G3R b1NNy\AppData\Local\Temporary Projects\Beacon\obj\x86\Debug\Beacon.Form1.hi-IN.resources
+C:\Users\r0G3R b1NNy\AppData\Local\Temporary Projects\Beacon\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\r0G3R b1NNy\AppData\Local\Temporary Projects\Beacon\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\r0G3R b1NNy\AppData\Local\Temporary Projects\Beacon\obj\x86\Debug\fr-FR\Beacon.resources.dll
+C:\Users\r0G3R b1NNy\AppData\Local\Temporary Projects\Beacon\obj\x86\Debug\hi-IN\Beacon.resources.dll
+C:\Users\r0G3R b1NNy\AppData\Local\Temporary Projects\Beacon\obj\x86\Debug\Beacon.exe
+C:\Users\r0G3R b1NNy\AppData\Local\Temporary Projects\Beacon\obj\x86\Debug\Beacon.xml
+C:\Users\r0G3R b1NNy\AppData\Local\Temporary Projects\Beacon\obj\x86\Debug\Beacon.pdb
+C:\Users\r0G3R b1NNy\documents\visual studio 2010\Projects\Beacon\Beacon\obj\x86\Debug\Beacon.exe
+C:\Users\r0G3R b1NNy\documents\visual studio 2010\Projects\Beacon\Beacon\obj\x86\Debug\Beacon.xml
+C:\Users\r0G3R b1NNy\documents\visual studio 2010\Projects\Beacon\Beacon\obj\x86\Debug\Beacon.pdb
+C:\Users\r0G3R b1NNy\documents\visual studio 2010\Projects\Beacon\Beacon\bin\Debug\Beacon.exe
+C:\Users\r0G3R b1NNy\documents\visual studio 2010\Projects\Beacon\Beacon\bin\Debug\Beacon.pdb
+C:\Users\r0G3R b1NNy\documents\visual studio 2010\Projects\Beacon\Beacon\bin\Debug\Beacon.xml
+C:\Users\r0G3R b1NNy\documents\visual studio 2010\Projects\Beacon\Beacon\bin\Debug\fr-FR\Beacon.resources.dll
+C:\Users\r0G3R b1NNy\documents\visual studio 2010\Projects\Beacon\Beacon\bin\Debug\hi-IN\Beacon.resources.dll
+C:\Users\r0G3R b1NNy\documents\visual studio 2010\Projects\Beacon\Beacon\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\r0G3R b1NNy\documents\visual studio 2010\Projects\Beacon\Beacon\obj\x86\Debug\Beacon.Resources.resources
+C:\Users\r0G3R b1NNy\documents\visual studio 2010\Projects\Beacon\Beacon\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\r0G3R b1NNy\documents\visual studio 2010\Projects\Beacon\Beacon\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\r0G3R b1NNy\documents\visual studio 2010\Projects\Beacon\Beacon\obj\x86\Debug\fr-FR\Beacon.resources.dll
+C:\Users\r0G3R b1NNy\documents\visual studio 2010\Projects\Beacon\Beacon\obj\x86\Debug\hi-IN\Beacon.resources.dll
+C:\Users\r0G3R b1NNy\documents\visual studio 2010\Projects\Beacon\Beacon\obj\x86\Debug\Beacon.TspForm.resources
+C:\Users\r0G3R b1NNy\documents\visual studio 2010\Projects\Beacon\Beacon\obj\x86\Debug\Beacon.graph.resources
+C:\Users\r0G3R b1NNy\documents\visual studio 2010\Projects\Beacon\Beacon\obj\x86\Debug\Beacon.ClpForm.resources
+C:\Users\r0G3R b1NNy\documents\visual studio 2010\Projects\Beacon\Beacon\bin\Debug\Database1.sdf
+C:\Users\r0G3R b1NNy\documents\visual studio 2010\Projects\Beacon\Beacon\bin\Debug\Beacon.exe.config
+C:\Users\r0G3R b1NNy\documents\visual studio 2010\Projects\Beacon\Beacon\obj\x86\Debug\Beacon.Form1.resources
+C:\Users\r0G3R b1NNy\documents\visual studio 2010\Projects\Beacon\Beacon\obj\x86\Debug\Beacon.BeaconForm.resources
+C:\Users\r0G3R b1NNy\documents\visual studio 2010\Projects\Beacon\Beacon\obj\x86\Debug\Beacon.BeaconForm.fr-FR.resources
+C:\Users\r0G3R b1NNy\documents\visual studio 2010\Projects\Beacon\Beacon\obj\x86\Debug\Beacon.BeaconForm.hi-IN.resources
